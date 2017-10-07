@@ -1,2 +1,3 @@
 # TestGitHub
-testing github via youtube tutorial
+Using VIM in order to edit description
+First project to test GitHub
